@@ -1,10 +1,9 @@
 <h3>Hi there</h3>
+- 🔭 **Backend and AI/ML**
 
 - 🌱 I’m currently learning **Django, Flask, FastAPI, Spring, Machine Learning**
 
 - 📫 How to reach me **macthinh22@gmail.com**
-
-- 📫 **Backend and AI/ML
 ---
 
 ### Languages
