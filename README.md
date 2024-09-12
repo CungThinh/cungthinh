@@ -1,5 +1,5 @@
 <h3>Hi there</h3>
-- 🔭 **Backend and AI/ML**
+- 🔭 **Python Backend and AI/ML**
 
 - 🌱 I’m currently learning **Django, Flask, FastAPI, Spring, Machine Learning**
 
@@ -29,6 +29,9 @@
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> 
   </a>
 </p>
 
