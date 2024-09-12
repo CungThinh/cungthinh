@@ -20,7 +20,7 @@
   </a>
 </p>
 
-### Frameworks
+### Frameworks and tools
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -31,8 +31,20 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> 
+  <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" width="40" height="40"/> 
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://products.containerize.com/message-queue-software/celery/menu_image.png" alt="Celery" width="50" height="50"/>
   </a>
 </p>
 
