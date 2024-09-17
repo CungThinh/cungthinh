@@ -44,7 +44,10 @@
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://products.containerize.com/message-queue-software/celery/menu_image.png" alt="Celery" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Celery" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Celery" width="40" height="40"/>
   </a>
 </p>
 
