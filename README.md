@@ -1,7 +1,5 @@
 - 🔭 **Python Backend and AI/ML**
 
-- 🌱 I’m currently learning **Django, Flask, FastAPI, Spring, Machine Learning**
-
 - 📫 How to reach me **macthinh22@gmail.com**
 ---
 
