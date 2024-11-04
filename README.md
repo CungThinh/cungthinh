@@ -1,4 +1,4 @@
-- 🔭 **Python Backend and AI/ML**
+- 🔭 **Fullstack Backend**
 
 - 📫 How to reach me **macthinh22@gmail.com**
 ---
