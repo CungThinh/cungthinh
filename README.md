@@ -24,9 +24,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>
   <a href="https://docs.celeryproject.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> 
   </a>
